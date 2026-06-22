@@ -1,0 +1,5 @@
+[
+  "tests/test_structure.py::test_main_runs_successfully",
+  "tests/test_structure.py::test_required_files_exist",
+  "tests/test_structure.py::test_required_folders_exist"
+]
